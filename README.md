@@ -16,7 +16,7 @@ This project is a part of Computational intelligence course (CS-354) in Indian I
 # Objectives
 1) Implementation of "Logistic Regression" from scratch to carry out classification jobs.
 2) Efficient preprocessing of text data.
-3) Comparing with in-built "Logistic Regression" library in "sklearn" to check accuracy scores.
+3) Check accuracy scores on training and testing data.
 
 # Platform
 The project was made on "Pycharm community edition 2017.3" using "Anaconda3" packages.
